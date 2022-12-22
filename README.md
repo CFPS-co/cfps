@@ -14,7 +14,7 @@ Our MVP will contain basic card management features which will be provided by Un
 
 ----
 
-![image](https://user-images.githubusercontent.com/43518957/209117512-560100fc-3914-4b2b-83d2-35beed5b6179.png)
+![image](https://user-images.githubusercontent.com/43518957/209118059-5a516a08-e28e-4880-a45b-4fc50e3f6c51.png)
 
 
 > #### Milestone Summary (pre-release)
